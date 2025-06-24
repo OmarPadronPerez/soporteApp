@@ -1,0 +1,12 @@
+php artisan serve --host=192.168.101.189 --port=8000
+php artisan db:seed --class=usuarios
+https://189.203.75.86/SOPORTE/
+
+JPADRON
+ADM_0311_JP
+
+arivera
+NOM_2308_AR
+
+ilopez
+NOM_2307_IL
