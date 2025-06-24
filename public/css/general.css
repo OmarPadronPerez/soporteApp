@@ -1,0 +1,15 @@
+:root{
+    --azul-principal:#0d6efd;
+}
+
+main {
+    margin-top: 100px;
+}
+
+header hr {
+    margin: auto;
+    padding: 0;
+    border-color: #145d68; 
+    width: 80%; 
+    border-width: 2px;
+}
